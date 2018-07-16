@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.2.0"></a>
+# [1.2.0](https://github.com/neikvon/demo/compare/v1.1.0...v1.2.0) (2018-07-16)
+
+
+### Features
+
+* **demo:** add a demo ([e370577](https://github.com/neikvon/demo/commit/e370577))
+
+
+
 <a name="1.1.0"></a>
 # [1.1.0](https://github.com/neikvon/demo/compare/v1.0.1...v1.1.0) (2018-07-16)
 
