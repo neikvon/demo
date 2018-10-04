@@ -1,6 +1,1 @@
-<<<<<<< Updated upstream
 n1
-=======
-a
-b
->>>>>>> Stashed changes
