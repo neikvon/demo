@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.6.3"></a>
+## [1.6.3](https://github.com/neikvon/demo/compare/v1.6.2...v1.6.3) (2018-10-04)
+
+
+### Bug Fixes
+
+* n2 ([2ae2687](https://github.com/neikvon/demo/commit/2ae2687))
+* s1 ([a39e101](https://github.com/neikvon/demo/commit/a39e101))
+
+
+
 <a name="1.6.2"></a>
 ## [1.6.2](https://github.com/neikvon/demo/compare/v1.6.1...v1.6.2) (2018-10-04)
 
