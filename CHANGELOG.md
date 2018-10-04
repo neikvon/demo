@@ -29,8 +29,6 @@ All notable changes to this project will be documented in this file. See [standa
 
 =======
 >>>>>>> release-4369a02
-=======
->>>>>>> release-4369a02
 <a name="1.6.5"></a>
 ## [1.6.5](https://github.com/neikvon/demo/compare/v1.6.4...v1.6.5) (2018-10-04)
 
@@ -67,6 +65,8 @@ All notable changes to this project will be documented in this file. See [standa
 
 
 
+=======
+>>>>>>> chore(release): 1.7.0
 <a name="1.7.0"></a>
 # [1.7.0](https://github.com/neikvon/demo/compare/v1.6.0...v1.7.0) (2018-10-04)
 
