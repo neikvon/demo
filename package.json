@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/neikvon/demo/issues"
   },
-  "homepage": "https://github.com/neikvon/demo#readme"
+  "homepage": "https://github.com/neikvon/demo#readme",
+  "fbi": {
+    "commit": {
+      "flow": "gitlab"
+    }
+  }
 }
