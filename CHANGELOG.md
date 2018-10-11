@@ -72,6 +72,31 @@ All notable changes to this project will be documented in this file. See [standa
 ### Features
 
 * a ([4212654](https://github.com/neikvon/demo/commit/4212654))
+* add a ([1d9b4e1](https://github.com/neikvon/demo/commit/1d9b4e1))
+* add git flow config ([0e17540](https://github.com/neikvon/demo/commit/0e17540))
+
+
+
+<a name="1.7.0"></a>
+# [1.7.0](https://github.com/neikvon/demo/compare/v1.6.10...v1.7.0) (2018-10-11)
+
+
+### Bug Fixes
+
+* d ([88b9c0c](https://github.com/neikvon/demo/commit/88b9c0c))
+* fix conflict on hf3 ([69b8a39](https://github.com/neikvon/demo/commit/69b8a39))
+* fix typo ([2fd1fe9](https://github.com/neikvon/demo/commit/2fd1fe9))
+* fixed [#1](https://github.com/neikvon/demo/issues/1) ([47399aa](https://github.com/neikvon/demo/commit/47399aa))
+* fn1 ([e2c4004](https://github.com/neikvon/demo/commit/e2c4004))
+* hf3 ([0c65088](https://github.com/neikvon/demo/commit/0c65088))
+* n2 ([8a87b0f](https://github.com/neikvon/demo/commit/8a87b0f))
+* s1 ([d45019d](https://github.com/neikvon/demo/commit/d45019d))
+* sd ([de8edc7](https://github.com/neikvon/demo/commit/de8edc7))
+
+
+### Features
+
+* a ([4212654](https://github.com/neikvon/demo/commit/4212654))
 * add git flow config ([0e17540](https://github.com/neikvon/demo/commit/0e17540))
 
 
