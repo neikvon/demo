@@ -19,7 +19,7 @@
   "homepage": "https://github.com/neikvon/demo#readme",
   "fbi": {
     "commit": {
-      "flow": "gitlab"
+      "flow": "no-flow"
     }
   }
 }
