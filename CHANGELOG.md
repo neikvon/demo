@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.1.0"></a>
+# [2.1.0](https://github.com/neikvon/demo/compare/v2.0.1...v2.1.0) (2018-10-12)
+
+
+### Bug Fixes
+
+* f2 ([bbb67c2](https://github.com/neikvon/demo/commit/bbb67c2))
+* f3 ([c182ed9](https://github.com/neikvon/demo/commit/c182ed9))
+* f4 ([2f10a2f](https://github.com/neikvon/demo/commit/2f10a2f))
+
+
+### Features
+
+* a1 ([e44d747](https://github.com/neikvon/demo/commit/e44d747))
+* f1 ([a356dfb](https://github.com/neikvon/demo/commit/a356dfb))
+
+
+
 <a name="2.0.1"></a>
 ## [2.0.1](https://github.com/neikvon/demo/compare/v1.8.2...v2.0.1) (2018-10-12)
 
